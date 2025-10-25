@@ -16,8 +16,8 @@ Here I document my **daily problem-solving journey** in C++ following **Striver�
 
 ## ⚙️ Tools & Languages
 
-- **Languages:** C++, Python  
-- **Platforms:** LeetCode, GeeksforGeeks  
+- **Languages:** C++ 
+- **Platforms:** LeetCode
 - **Editor:** Visual Studio Code  
 
 ---
